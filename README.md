@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Allen-SV/Allen-SV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Allen Shaji Varghese 
+
+2nd-year CSE student at Saintgits College of Engineering | CGPA: 8.9
+
+## 📫 Contacts
+- Email: [Email](mailto:allenshajivarghese500@gmail.com)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/allen-shaji-varghese-462086332)
