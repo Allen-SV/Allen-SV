@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 2nd-year CSE student at Saintgits College of Engineering | CGPA: 8.91
 
-## 📫 Contacts
+## Skills
+- Languages: Python, Java, SQL, HTML/CSS
+- AI/ML Tools: YOLOv8, OpenCV
+- Tools: Git, Github, VS Code, AntiGravity
+
+
+## Contacts
 - [Email](mailto:allenshajivarghese500@gmail.com)
 - [LinkedIn](www.linkedin.com/in/allen-shaji-varghese-462086332)
