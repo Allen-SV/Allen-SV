@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Allen Shaji Varghese 
+## Allen Shaji Varghese 
 
 2nd-year CSE student at Saintgits College of Engineering | CGPA: 8.91
 
