@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 2nd-year CSE student at Saintgits College of Engineering | CGPA: 8.9
 
 ## 📫 Contacts
-- Email: [Email](mailto:allenshajivarghese500@gmail.com)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/allen-shaji-varghese-462086332)
+- [Email](mailto:allenshajivarghese500@gmail.com)
+- [LinkedIn](www.linkedin.com/in/allen-shaji-varghese-462086332)
