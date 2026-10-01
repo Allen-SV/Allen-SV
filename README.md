@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Allen Shaji Varghese 
 
-2nd-year CSE student at Saintgits College of Engineering | CGPA: 8.91
+3rd-year CSE student at Saintgits College of Engineering | CGPA: 8.91
 
 ## Skills
 - Languages: Python, Java, SQL, HTML/CSS
